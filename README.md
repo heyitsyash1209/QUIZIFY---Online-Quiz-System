@@ -73,7 +73,7 @@
 
 ## 🧭 Executive Summary
 
-> **Quizify** is an AI-powered online assessment and quiz management platform designed to bridge the gap between traditional testing systems and modern, intelligent, learner-centric education technology.
+> **Quizify** is an AI- Featured online assessment and quiz management platform designed to bridge the gap between traditional testing systems and modern, intelligent, learner-centric education technology.
 
 Built as a **full-stack web application**, Quizify enables institutions and independent learners to create, manage, and attempt quizzes — ranging from free practice tests to paid, certificate-backed examinations — while leveraging **AI-Features tutoring, automated question generation, and performance analytics** to personalize the learning journey.
 
@@ -140,7 +140,7 @@ Quizify addresses these gaps through a unified platform that combines:
 - 🤖 AI-powered quiz generation
 - 📈 Analytics & AI-driven insights
 - 👁️ Student monitoring (strengths/weaknesses)
-- ✅ Certificate verification & issuance
+- 🔔 Centralized notification system for quizzes, AI-generated content, results ,rewards, and certificate events. 
 - 👥 User & registration tracking
 - 📅 Quiz scheduling engine
 
@@ -187,12 +187,6 @@ Quizify addresses these gaps through a unified platform that combines:
 - Point Collection
 - Achievement Levels
 - Rewards
-
-### 🔔 Notification System
-- New Quiz Alerts
-- Exam Reminders
-- Result Notifications
-- Platform Updates
 
 ### 📜 Certificate System
 - Auto Generated Certificates
@@ -246,10 +240,13 @@ Quizify addresses these gaps through a unified platform that combines:
 </details>
 
 <details>
-<summary><strong>📜 Certificate Management</strong></summary>
-
-- Certificate Verification
-- Certificate Issuing
+<summary><strong> 🔔 Admin Notifications </strong></summary>
+- 📝 New quiz created successfully
+- 💳 New paid quiz published
+- 📅 Upcoming quiz reminders
+- 🏆 Reward distribution reminders
+- 📊 Quiz results available
+- 📧 Certificate generation and email delivery status
 </details>
 
 <details>
