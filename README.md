@@ -273,7 +273,7 @@ mindmap
       Topic-Based MCQs
       Difficulty Levels
       Auto Question Creation
-    AI Performance Insights
+     Performance Insights
       Strength Detection
       Weakness Detection
 ```
@@ -282,7 +282,7 @@ mindmap
 |---|---|---|
 | 🧑‍🏫 AI Tutor | Real-time doubt solving & concept explanation | Students |
 | ⚡ AI Quiz Generator | Instant MCQ creation by topic & difficulty | Admins |
-| 📊 AI Performance Insights | Identifies strong/weak subject areas | Students & Admins |
+| 📊 Performance Insights | Identifies strong/weak subject areas | Students & Admins |
 
 ---
 
@@ -343,7 +343,7 @@ graph TB
         B1[Authentication Engine]
         B2[Quiz Engine]
         B3[Admin Panel Logic]
-        B4[AI Integration Layer]
+        B4[API Integration Layer]
         B5[Certificate Generator - FPDF]
         B6[Email Service - PHPMailer]
     end
