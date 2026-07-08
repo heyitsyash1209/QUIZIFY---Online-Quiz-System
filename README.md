@@ -15,7 +15,7 @@
 [![Grok API](https://img.shields.io/badge/Grok-API-black?style=for-the-badge)](#-api-integrations)
 <br/>
 
-**A full-stack, AI-integrated quiz and assessment platform built as a Final Year BCA Project**
+**A full-stack, AI- Featured quiz and assessment platform built as a Second Year BCA Minor Project**
 **by [Yash Gupta](#-contributors) & [Arjab Jain](#-contributors) · ITM University Gwalior**
 
 <br/>
