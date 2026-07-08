@@ -2,8 +2,7 @@
 
 # 🧠 Quizify
 
-### AI-Powered Online Quiz Management System
-
+### A Smart Online Quiz Management System with AI Features
 **Learn. Compete. Get Certified. Powered by AI.**
 
 [![Made with PHP](https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
